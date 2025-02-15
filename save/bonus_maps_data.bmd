@@ -1,0 +1,21 @@
+"bonus_map_saved_data"
+{
+	"bonusfiles"
+	{
+		"scripts/challenges/challenges.bns"
+		{
+			"#Bonus_Map_TC13Challenges"
+			{
+				"lock"		"0"
+			}
+			"#Bonus_Map_TC14Challenges"
+			{
+				"lock"		"0"
+			}
+			"#Bonus_Map_TC15Challenges"
+			{
+				"lock"		"0"
+			}
+		}
+	}
+}
